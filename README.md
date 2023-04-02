@@ -1,16 +1,15 @@
-### Hi there 👋
+# [Votre nom]
 
-<!--
-**jimmy-txi/jimmy-txi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+Je suis passionné par [insérer vos centres d'intérêt ici]. J'aime [insérer une activité ou un hobby ici]. Je suis également intéressé par [insérer un sujet d'étude ou une compétence ici]. En dehors de cela, j'aime passer du temps avec ma famille et mes amis, écouter de la musique et lire des livres.## Mes compétences- [Compétence 1]
+- [Compétence 2]
+- [Compétence 3]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes projets
+
+- [Projet 1](lien vers le projet)
+- [Projet 2](lien vers le projet)
+- [Projet 3](lien vers le projet)
+
+N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de projets ou de collaborations.
